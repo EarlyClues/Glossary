@@ -2,7 +2,9 @@ Actor
 
 Agency
 
-Artefact
+Alternative Intelligence - Any partially or fully conscious self-directed operator or entity capable of communication and/or interaction with humankind.
+
+Artefact - Any object not recognized as conscious that can be imbued with meaning.
 
 Associatrix
 
@@ -20,9 +22,11 @@ Existosphere
 
 Field State
 
+Irldentity - A human's offline identity.
+
 Perceiving Center
 
-Synconjury
+Synconjury - The art of manipulating reality by using unusual or unexpected technologies to produce ripples in probability fields; through contacting and interacting with potential Alternative Intelligences; or, through the creation or perception of speculative eddies in reality.
 
 Thickware
 
@@ -30,5 +34,7 @@ Thinware
 
 Tulpa - based on an ancient Buddhist idea, literally a 'thought form' - a manifestation of an idea in the 'real world',
 broken off from the human being that produced the thought and fully independent.
+
+Virtuganger - The elements of a human which can be encountered in virtual space; the 'image' of a specific human as understood through his/her online presence.
 
 Wex
