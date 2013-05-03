@@ -1,28 +1,34 @@
+@ - literally "each at"; symbol standing for the root of identity; information fixed to a location or body, union, expression; aces of Tarot;
+
 Actor
 
-Agency
+Agency - Ability to take action of an entity or actor
 
 Alternative Intelligence - Any partially or fully conscious self-directed operator or entity capable of communication and/or interaction with humankind.
 
 Artefact - Any object not recognized as conscious that can be imbued with meaning.
 
-Associatrix
+Associatrix - See: Indra's Net
 
-Bot
+Bot - A programmatic pattern with an ecosystemic function
 
-Brane
+Brane - Trending surface
 
 Datasmog - Both a pyschosomatic response to an overabundance of digital information and/or the data itself.
 
 Emerging Intelligence
 
-Entity
+Entity - A recognizable persistent pattern with discernable characteristics and typical behavior
 
-Existosphere
+Existosphere - Update to legacy Reality format
 
 Field State
 
+Intergiving 
+
 Irldentity - A human's offline identity.
+
+Magic Points/Mana Points - Subtle energy which may be charged into an artefact
 
 Perceiving Center
 
@@ -37,4 +43,4 @@ broken off from the human being that produced the thought and fully independent.
 
 Virtuganger - The elements of a human which can be encountered in virtual space; the 'image' of a specific human as understood through his/her online presence.
 
-Wex
+Wex - recursive connections between elements in the Associatrix
